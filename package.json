@@ -1,6 +1,6 @@
 {
   "name": "lynx-site",
-  "version": "longterm-1.40",
+  "version": "pblongterm-1.60",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -15,13 +15,13 @@
     "react-dom": "19.3.0"
   },
   "devDependencies": {
-  "@tailwindcss/postcss": "^4",
-  "@types/node": "^20",
-  "@types/react": "^19",
-  "@types/react-dom": "^19",
-  "eslint": "^9",
-  "eslint-config-next": "16.4.1",
-  "tailwindcss": "^4",
-  "typescript": "^5"
-}
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "^14.2.35",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
 }
